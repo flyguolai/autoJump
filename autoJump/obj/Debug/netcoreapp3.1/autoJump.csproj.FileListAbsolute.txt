@@ -1,0 +1,13 @@
+C:\Users\xin\source\repos\autoJump\autoJump\bin\Debug\netcoreapp3.1\autoJump.exe
+C:\Users\xin\source\repos\autoJump\autoJump\bin\Debug\netcoreapp3.1\autoJump.deps.json
+C:\Users\xin\source\repos\autoJump\autoJump\bin\Debug\netcoreapp3.1\autoJump.runtimeconfig.json
+C:\Users\xin\source\repos\autoJump\autoJump\bin\Debug\netcoreapp3.1\autoJump.runtimeconfig.dev.json
+C:\Users\xin\source\repos\autoJump\autoJump\bin\Debug\netcoreapp3.1\autoJump.dll
+C:\Users\xin\source\repos\autoJump\autoJump\bin\Debug\netcoreapp3.1\autoJump.pdb
+C:\Users\xin\source\repos\autoJump\autoJump\obj\Debug\netcoreapp3.1\autoJump.csprojAssemblyReference.cache
+C:\Users\xin\source\repos\autoJump\autoJump\obj\Debug\netcoreapp3.1\autoJump.csproj.CoreCompileInputs.cache
+C:\Users\xin\source\repos\autoJump\autoJump\obj\Debug\netcoreapp3.1\autoJump.AssemblyInfoInputs.cache
+C:\Users\xin\source\repos\autoJump\autoJump\obj\Debug\netcoreapp3.1\autoJump.AssemblyInfo.cs
+C:\Users\xin\source\repos\autoJump\autoJump\obj\Debug\netcoreapp3.1\autoJump.dll
+C:\Users\xin\source\repos\autoJump\autoJump\obj\Debug\netcoreapp3.1\autoJump.pdb
+C:\Users\xin\source\repos\autoJump\autoJump\obj\Debug\netcoreapp3.1\autoJump.genruntimeconfig.cache
